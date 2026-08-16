@@ -21,11 +21,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nadiraya1&label=Profile%20Views&color=6D28D9&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/nadiraya1?label=Followers&style=flat-square&color=4F46E5" />
-  <img src="https://img.shields.io/github/stars/nadiraya1?affiliations=OWNER&style=flat-square&color=7C3AED" />
-</p>
+
 
 Featured Projects
 
