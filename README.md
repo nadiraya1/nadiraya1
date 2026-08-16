@@ -22,16 +22,6 @@
   </a>
 </p>
 
-
-GitHub Analytics
-
-</p>
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=nadiraya1&theme=midnight-purple&hide_border=true"
-  />
-</p>
-
 ⸻
 
 <p align="center">
