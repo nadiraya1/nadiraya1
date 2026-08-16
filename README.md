@@ -16,13 +16,6 @@
   <img src="https://img.shields.io/badge/CGPA-3.20%20%2F%204.00-7C3AED?style=flat-square" />
   <img src="https://img.shields.io/badge/Location-Istanbul%2C%20Türkiye-5B21B6?style=flat-square" />
 </p>
-<p align="center">
-  <a href="https://github.com/nadiraya1">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-⸻
 
 <p align="center">
   <i>Building software with curiosity, purpose, and room to keep learning.</i>
