@@ -26,29 +26,6 @@
   <img src="https://img.shields.io/github/followers/nadiraya1?label=Followers&style=flat-square&color=4F46E5" />
   <img src="https://img.shields.io/github/stars/nadiraya1?affiliations=OWNER&style=flat-square&color=7C3AED" />
 </p>
----
-## About Me
-I'm a **Software Engineering graduate from Bahçeşehir University** interested in building software at the intersection of **engineering, artificial intelligence, data, and product design**.
-My academic and personal projects have taken me across **reinforcement learning, machine learning workflows, scientific software, frontend development, and interactive user interfaces**.
-I especially enjoy taking technically complex ideas and turning them into software people can actually interact with — from a machine-learning platform for biological cell classification to a reinforcement-learning driving agent and responsive web applications.
-```yaml
-currently:
-  exploring:
-    - Artificial Intelligence & Machine Learning
-    - Intelligent Software Products
-    - Data-Driven Applications
-  interested_in:
-    - Software Engineering
-    - Applied AI
-    - Product Engineering
-    - Full-Stack Development
-  open_to:
-    - Software Engineering Opportunities
-    - AI / ML Projects
-    - Graduate Opportunities
-    - International Collaboration
-
-⸻
 
 Tech Stack
 
