@@ -25,17 +25,6 @@
 
 GitHub Analytics
 
-<p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=nadiraya1&show_icons=true&hide_border=true&theme=midnight-purple"
-  />
-</p>
-<p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadiraya1&layout=compact&hide_border=true&theme=midnight-purple"
-  />
 </p>
 <p align="center">
   <img
