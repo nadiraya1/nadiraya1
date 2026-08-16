@@ -1,12 +1,12 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4C1D95,50:6D28D9,100:312E81&text=Nadira%20Yakupbayeva&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Software%20Engineerdes&cAlignY=60&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4C1D95,50:6D28D9,100:312E81&text=Nadira%20Yakupbayeva&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Software%20Engineer&descAlignY=60&animation=fadeIn"
     width="100%"
   />
 </p>
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Software+Engineering+Graduate;Building+AI%2FML+and+Web+Projects;Exploring+Intelligent+Software+Products;Always+Learning.+Always+Building."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Software+Engineering+;Building+AI%2FML+and+Web+Projects;Exploring+Intelligent+Software+Products;Always+Learning.+Always+Building."
     alt="Typing SVG"
   />
 </p>
