@@ -27,46 +27,6 @@
   <img src="https://img.shields.io/github/stars/nadiraya1?affiliations=OWNER&style=flat-square&color=7C3AED" />
 </p>
 
-Tech Stack
-
-Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,r" />
-</p>
-
-Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,vite" />
-</p>
-
-AI, ML & Data
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch" />
-</p>
-
-Tools & Engineering
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
-
-⸻
-
-AI / ML Experience
-
-Domain	Experience	What I’ve Worked With
-Machine Learning	Applied	Classification, preprocessing, model inference and evaluation
-Reinforcement Learning	Applied	Deep Q-Networks, reward shaping, exploration strategies and simulation
-Explainable AI	Applied	SHAP-based model explanation workflows
-Scientific ML	Applied	Cell-type prediction from single-cell RNA-seq data
-Data Analysis	Academic / Applied	Python, R, dimensionality reduction and visualization
-Model Integration	Applied	Connecting trained ML models with user-facing software
-
-⸻
-
 Featured Projects
 
 <details open>
