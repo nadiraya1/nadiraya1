@@ -12,8 +12,7 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/B.Sc.-Software%20Engineering-6D28D9?style=flat-square" />
-  <img src="https://img.shields.io/badge/Bahçeşehir%20University-Honour%20Graduate-4F46E5?style=flat-square" />
-  <img src="https://img.shields.io/badge/CGPA-3.20%20%2F%204.00-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Bahçeşehir%20University-3.20%20%2F%204.00-4F46E5?style=flat-square" />
   <img src="https://img.shields.io/badge/Location-Istanbul%2C%20Türkiye-5B21B6?style=flat-square" />
 </p>
 
